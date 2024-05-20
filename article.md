@@ -1,4 +1,4 @@
-<img src=""/>  
+<img src="https://github.com/anabeatriziannotta/create-an-article-ia/blob/main/Slide1.jpg"/>  
 
 # Desafios Comuns e Como Superá-los ao Usar AWS CodePipeline
 
