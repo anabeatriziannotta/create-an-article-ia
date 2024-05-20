@@ -2,7 +2,7 @@
 
 Projeto com o objetivo de gerar um artigo digital com as facilidades das ferramentas de IA.
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://web.dio.me/articles/desafios-comuns-e-como-supera-los-ao-usar-aws-codepipeline?back=%2Farticles&open-modal=true&page=1&order=oldest" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
